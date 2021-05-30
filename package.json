@@ -1,0 +1,23 @@
+{
+  "name": "toybroswer",
+  "version": "1.0.0",
+  "description": "手动实现一个简易浏览器",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GennCai/toy_broswer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GennCai/toy_broswer/issues"
+  },
+  "homepage": "https://github.com/GennCai/toy_broswer#readme",
+  "dependencies": {
+    "css": "^3.0.0"
+  }
+}
